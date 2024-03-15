@@ -11,7 +11,7 @@
 - someone who has near-to-perfect documentation and reporting skills, and is an effective communicator;
 - }
 - 
-- I know more than an average data/analytics professional even though my background is busienss and Marketing. I have a master's degree in Busienss Analytics
+- I know more than an average data/analytics professional even though my background is business analytics and Marketing. I have a master's degree in Busienss Analytics and a BA in Marketing.
 - I have learnt Python all on my own and can operate a workspace with simultaneuos SQL and Python integration. Born to be a problem solver maybe*
 - 💞️ I’m looking to collaborate on projects with cross-departmental participation, 
 - 📫 How to reach me || Email: raunak.ramchandani@gmail.com  
